@@ -1,3 +1,12 @@
+"""
+This is definitely not my best code. It was written in a rush because I wanted to test
+some things.
+
+This is a bare-bones Towers of Hanoi game.
+"""
+
+# TODO: Clean up code, refactor, and add documentation and explanation.
+
 import pygame
 import pygame.freetype
 from pygame.freetype import Font
